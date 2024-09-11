@@ -1,0 +1,10 @@
+Here all the changes are recorded that happen throughout the analysis
+v1.0-----------------------------------------------------------------
+fact_stamps.csv - added(e-stamp status)
+		  condition{If(revenue>750million,IF(revenue>2500million,"High","Average"), Low}
+power BI
+v1.1-----------------------------------------------------------------
+Created a new table named as Measure to hold all the measures 
+Created a measure to caculate Sum of Document Registration Revenue
+v1.2-----------------------------------------------------------------
+Created a new table to hold district names and their e-stamp_Status

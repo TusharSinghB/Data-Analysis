@@ -1,0 +1,118 @@
+ASK
+-OBJECTIVES
+
+Explore Stamp Registration, Transportaion and Ts-Ipass Datasets.
+Analyze trends and patterns within each department
+Identify growth opportunitirs and areas needing attention
+Find correlation among these departments and report the overall growth of the state through insights and relevent visuals such as shape maps.
+
+
+-PRIMARY QUESTIONS
+
+	STAMP REGISTRATION
+
+How does the revenue generated from document registration vary across districts in Telangana? List down the top 5 districts that showed the highest document registration revenue growth between FY 2019 and 2022.
+{ How much each district earn through document registration}
+-----------------------------------------------------------------------------------------------------------------------------
+Top 5 Districts having highest document registration is district	
+Document_Registration_Revenue
+
+Rangareddy		108bn
+Medchal_Malkajgiri	64bn
+Hyderabad		38bn
+Sangareddy		22bn
+Hanumakonda		8bn
+
+Growth Rate
+ 
+district		0_Growth_Rate	Document_Registration_Revenue
+Mulugu			170.94%			1bn
+Adilabad		122.84%			1bn
+Karimnagar		92.75%			4bn
+Mancherial		91.75%			2bn
+Medchal_Malkajgiri	91.68%			64bn
+_____________________________________________________________________________________________________________________________
+
+How does the revenue generated from document registration compare to the revenue generated from e-stamps challans across districts? List down the top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022?
+{Measure = documentRegistrationRevenue / e-stamp_challans}
+-----------------------------------------------------------------------------------------------------------------------------
+TOP 5 DISTRICTS BASED ON MOST E-CHALLAN REVENUE CONTRIBUTION IN TOTAL REVENUE
+
+district		Revenue_Difference
+Mulugu			44.22%
+Adilabad		43.78%
+Medchal_Malkajgiri	43.24%
+Sangareddy		43.14%
+Nizamabad		42.95%
+
+-It is observed that e-stamp_challan revenue doesn't excede document registration in any district overall 
+
+TOP 5 DISTRICTS BASED ON MOST E-CHALLAN REVENUE CONTRIBUTION IN TOTAL REVENUE IN FISCAL YEAR 2022
+
+district		Revenue_Difference
+Jangoan			50.63%
+Nirmal			50.52%
+Mancherial		50.49%
+Rangareddy		50.43%
+Kamareddy		50.40%
+-It is observed that e-stamp_challan revenue is slowly contributing more to the total revenue in 2022 fiscal year
+_____________________________________________________________________________________________________________________________
+
+Is there any alteration of e-Stamp challan count and document registration count pattern since the implementation of e-Stamp challan? If so, what suggestions would you propose to the government?
+{Line chart, Scatter chart}
+-----------------------------------------------------------------------------------------------------------------------------
+-It is thoroughly observed through line chart that since e-stamp challan implimentation it clearly follows document-registration count.
+_____________________________________________________________________________________________________________________________
+
+Categorize districts into three segments based on their stamp registration revenue generation during the fiscal year 2021 to 2022.
+{Three categories - low, average, high}
+
+	TRANSPORTATION
+
+Investigate whether there is any correlation between vehicle sales and specific months or seasons in different districts. Are the any months or seasons that consistently show higher or lower sales rate, and if yes, what could be the driving factors? (COnsider Fuel-Type cateory only)
+-----------------------------------------------------------------------------------------------------------------------------
+- Petrol Vehicles are largest contributer in total sales
+- 2019 
+Maximum : October 260,000
+Minimun : September 123,000
+[ Transportation Sales Reached 260,000 vehicles in October but in September It only reached 123,000 vehicles (lowest)] ( Reason : People bought less vehicles in september so they bought more vehicles in october)
+-2020
+Maximun : October 203,000
+Minimum : April 1994, May 68,566
+[ Transportation Sales Reached 203,000 vehicles in October which is less than previous Financial year but this time it maintain the pace with 190,000 vehicles in November. But overall This year only 1,658,209 vehicles sold on comparison to 2,043,571 ]
+( Reason : This time there is no dip in September)
+-2021
+Maximun : October 173,000
+Minimun : May 69,465
+[Transportation sales is less than previous years accounting only 1,550,305. October also showed only 173,000 sales. There is a dip in May. In September there is a slight dip also]
+(Reason : May is experiencing low sales)
+-2022
+Maximum : September 138,000, August 140,000
+Minimum : November 72,000, December 73,000, February 66,000
+[September and August Record Highest sales in 2022]
+_____________________________________________________________________________________________________________________________
+How does the distribution of vehicles vary by vehicle class(MoterCycle, MotorCar, AutoRickshaw, Agriculture) across different districts? Are there any districts with a predominant preference for a specific vehicle class? Consider FY 2022 for analysis.
+
+List down the top 3 and bottom 3 districts that have shown the highest and lowest vehicle sales growth during FY 2022 compared to FY 2021? (Consider and compare categories: Petrol, Diesela and Electric)
+
+	TS-IPASS (TELANGANA STATE INDUSTRIAL PROJECT APPROVAL AND SELF CERTIFICATION SYSTEM)
+
+List down the top 5 sectors that have witnessed the most significant investments in FY 2022
+
+List down the top 3 districts that have attracted the most significant sector investments during FY 2019 to 2022? What factor could have led to the substantial investments in these particular districts?
+
+Is there any relationship between district investments, vehicles sales and stamps revenue within the same district between FY 2021 and 2022
+
+Are there any particular sectors that have shown substantial investment in multiple districts between FY 2021 and 2022
+
+Can we identify any seasonal patterns or cyclicality in the investment trends for specific sectors? Do certain sectors experience higher investments during particular months?
+
+
+-SECONDARY RESEARCH
+
+What are the top 5 districts to but commercial properties in Telangana? Justify your answer
+
+What significant policies or initiaives were put into effect to enhance economic growth, investments and employment in Telangana by the current government? Can we quantify the impact of these policies using available data?
+
+Provide top 5 insights and 5 recommendations to Telangana government for sustained growth in the next 5 years based on your analysis.
+
